@@ -1,0 +1,63 @@
+
+
+  .fifty{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    margin: 0 40px;
+    padding: 20px;
+  }
+
+  .green50{
+      background-color: green;
+  }
+
+  .thirds{
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+    margin: 0 40px;
+    padding: 20px;
+  }
+
+  .green{
+    background-color: green;
+    flex-basis: 467px;
+
+}
+
+  .blue{
+    background-color: blue;
+    flex-basis: 467px;
+}
+
+  .red{
+
+    background-color: red;
+    flex-basis: 467px;
+  }
+
+  .tripetdva{
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+    margin: 0 40px;
+    padding: 20px;
+  }
+
+  .green30{
+    background-color: green;
+    flex-basis: 420px;
+
+}
+
+  .blue20{
+    background-color: blue;
+    flex-basis: 280px;
+}
+
+  .red502{
+
+    background-color: red;
+    flex-basis: 700px;
+  }
